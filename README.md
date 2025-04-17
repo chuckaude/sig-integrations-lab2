@@ -1,3 +1,5 @@
+**Notice** The rebranded and updated version of this lab is available at https://github.com/blackduck-se/bd-integrations-lab2
+
 # SIG Integration Lab 2
 The goal of this lab is to provide hands on experience integrating a Polaris scan into a GitLab pipeline using the [Synopsys GitLab Template](https://gitlab.com/synopsys/synopsys-template) and demonstrating its post scan capabilities. As part of this lab, we will:
 - execute a full scan, viewing the results in the Polaris UI
@@ -14,7 +16,7 @@ This repository contains everything you need to complete the lab except for the 
 
 # Clone repository
 
-1. Clone this repository into your GitLab account via _GiLab → Projects → New Project → Import Project → Repository by URL_
+1. Clone this repository into your GitLab account via _GitLab → Projects → New Project → Import Project → Repository by URL_
    - repostiory url: https://github.com/chuckaude/sig-integrations-lab2.git
    - username & password not needed
    - optionally change project slug (repository name)
